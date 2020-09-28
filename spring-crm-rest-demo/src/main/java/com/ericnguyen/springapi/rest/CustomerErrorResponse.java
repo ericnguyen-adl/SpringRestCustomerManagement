@@ -1,4 +1,4 @@
-package com.luv2code.springdemo.rest;
+package com.ericnguyen.springapi.rest;
 
 public class CustomerErrorResponse {
 	private int status; 

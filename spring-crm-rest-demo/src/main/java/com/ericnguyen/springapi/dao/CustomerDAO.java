@@ -1,8 +1,8 @@
-package com.luv2code.springdemo.dao;
+package com.ericnguyen.springapi.dao;
 
 import java.util.List;
 
-import com.luv2code.springdemo.entity.Customer;
+import com.ericnguyen.springapi.entity.Customer;
 
 public interface CustomerDAO {
 
